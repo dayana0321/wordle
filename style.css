@@ -141,13 +141,13 @@ body{
     }
     
     .key-container{
-        width: 470px;
+        width: 440px;
         display: flex;
         flex-wrap: wrap;
     }
     
     .key-container button{
-        width: 38px;
+        width: 35px;
         height: 48px;
         border-radius: 4px;
         border: none;
