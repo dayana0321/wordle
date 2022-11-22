@@ -197,6 +197,15 @@ body{
         display: flex;
     }
     
-  
+    .tile-container{
+        
+        margin-bottom: 50px;
+        
+    }
+    
+    .message-container{
+        height: 35px;
+        margin: 15px;
+    }
 
 }
