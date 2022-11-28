@@ -147,12 +147,12 @@ body{
     }
     
     .tile-container{
-        width: 300px;
+        width: 280px;
         margin-bottom: 38px;
     }
     
     .key-container{
-        width: 430px;
+        width: 420px;
         display: flex;
         flex-wrap: wrap;
     }
