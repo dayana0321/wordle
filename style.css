@@ -131,7 +131,7 @@ body{
     display: flex;
 }
 
-@media screen and (device-width:600px) {
+@media screen and (max-width:600px) {
     .title-container{
         text-align: center;
         width: 500px;
