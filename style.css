@@ -154,6 +154,8 @@ body{
         width: 430px;
         display: flex;
         flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
     }
     
     .key-container button{
