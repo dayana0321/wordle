@@ -194,11 +194,12 @@ body{
 
     .button{
         height: 35px;
-        border-radius:16px;
+        border-radius:5px;
         border: none;
         background-color: #538d4e;
         padding: 7px;
-        margin-right: 40px;
+        margin: auto;
+        margin-top: 10px;
     }
     
     .button:hover{
