@@ -131,15 +131,15 @@ body{
     display: flex;
 }
 
-@media screen and (device-width:720px) {
+@media screen and (device-width:600px) {
     .title-container{
         text-align: center;
-        width: 510px;
+        width: 500px;
         border-bottom: solid 1px #3a3a3c;
     }
     
     .tile-container{
-        width: 330px;
+        width: 300px;
         margin-bottom: 38px;
     }
     
