@@ -131,15 +131,14 @@ body{
     display: flex;
 }
 
-@media screen and (max-width:800px) {
+@media screen and (max-width:1000px) {
     .game-container{
         height: 90vh;
         display: flex;
-        flex-direction: column;
-        justify-content: space-between;
+        justify-content: center;
         align-items: center;
     }
-    
+
     .title-container{
         text-align: center;
         width: 500px;
