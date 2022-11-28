@@ -135,6 +135,7 @@ body{
     .game-container{
         height: 90vh;
         display: flex;
+        flex-direction: column;
         justify-content: center;
         align-items: center;
     }
@@ -154,8 +155,6 @@ body{
         width: 430px;
         display: flex;
         flex-wrap: wrap;
-        align-items: center;
-        justify-content: center;
     }
     
     .key-container button{
